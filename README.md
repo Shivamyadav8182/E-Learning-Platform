@@ -18,8 +18,10 @@ The E-Learning Platform is a frontend web application designed to make online co
 - 🧩 Component-based React architecture
 - 🎨 Clean and user-friendly interface
 
-- 🌐 Live Demo
 
+
+- 🌐 Live Demo
+https://shivamyadav8182.github.io/E-Learning-Platform/
 
 
 ## 🛠️ Technologies Used
