@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/E-Learning-Platform/static/css/main.5f018d32.css",
+    "main.js": "/E-Learning-Platform/static/js/main.e20bce9c.js",
+    "index.html": "/E-Learning-Platform/index.html",
+    "main.5f018d32.css.map": "/E-Learning-Platform/static/css/main.5f018d32.css.map",
+    "main.e20bce9c.js.map": "/E-Learning-Platform/static/js/main.e20bce9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f018d32.css",
+    "static/js/main.e20bce9c.js"
+  ]
+}
